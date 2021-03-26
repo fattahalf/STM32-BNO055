@@ -1,0 +1,11 @@
+BNO055.c:53:6:BNO055_Init_I2C	64	static
+BNO055.c:127:9:GetEulData	40	static
+BNO055.c:133:9:GetQuaDataX	40	static
+BNO055.c:139:9:GetQuaDataY	40	static
+BNO055.c:145:9:GetQuaDataZ	40	static
+BNO055.c:151:9:GetQuaDataW	40	static
+BNO055.c:167:9:GetEulChipId	32	static
+BNO055.c:173:9:GetEulTemp	32	static
+BNO055.c:182:9:BNO055_Get_Calibration	32	static
+BNO055.c:191:6:BNO055_Calc_Calibration	24	static
+BNO055.c:198:6:getIMU	40	static
